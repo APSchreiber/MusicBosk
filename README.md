@@ -1,6 +1,6 @@
 # MusicBosk
 
-<img src="https://commons.wikimedia.org/wiki/Category:Musical_boxes#/media/File:Bmusique_det.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bmusique_det.jpg>
 
 ## Summary
 
