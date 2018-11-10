@@ -1,6 +1,6 @@
 # MusicBosk
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bmusique_det.jpg =250x)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bmusique_det.jpg" alt="music box" width="250">
 
 ## Summary
 
